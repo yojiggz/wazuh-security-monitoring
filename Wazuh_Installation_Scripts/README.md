@@ -11,7 +11,7 @@ manage-services.sh: Provides convenient commands to start, stop, and check the s
 
 To make the scripts executable, navigate to the directory containing your setup scripts and run the following commands in your terminal:
 
-BASH
+```BASH
 chmod +x toinstall-wazuh.sh
 chmod +x toconfigure-wazuh.sh
 chmod +x manage-services.sh
@@ -25,9 +25,9 @@ sudo ./manage-services.sh start
 
 ## (Optional) Configure Wazuh further  (replace ./toconfigure-wazuh.sh with your actual configuration script if you have one)
 
-BASH
+```BASH
 sudo ./toconfigure-wazuh.sh  # (Optional)
 
 ## Manage Wazuh services:
-BASH
+```BASH
 sudo ./manage-services.sh {start|stop|status}
