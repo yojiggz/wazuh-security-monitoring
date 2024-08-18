@@ -16,18 +16,16 @@ chmod +x toinstall-wazuh.sh
 chmod +x toconfigure-wazuh.sh
 chmod +x manage-services.sh
 
-## Running the Scripts
-Now your scripts are ready to be run. You can execute them by using the following commands:
-
+## Running the Scripts - Now your scripts are ready to be run. You can execute them by using the following commands:
 sudo ./toinstall-wazuh.sh
 sudo ./toconfigure-wazuh.sh
 sudo ./manage-services.sh start
 
 ## (Optional) Configure Wazuh further  (replace ./toconfigure-wazuh.sh with your actual configuration script if you have one)
 
-```BASH
+BASH
 sudo ./toconfigure-wazuh.sh  # (Optional)
 
 ## Manage Wazuh services:
-```BASH
+BASH
 sudo ./manage-services.sh {start|stop|status}
