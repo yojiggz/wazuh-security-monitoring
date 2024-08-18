@@ -23,6 +23,11 @@ sudo ./toinstall-wazuh.sh
 sudo ./toconfigure-wazuh.sh
 sudo ./manage-services.sh start
 
-## (Optional) Configure Wazuh further
+## (Optional) Configure Wazuh further  (replace ./toconfigure-wazuh.sh with your actual configuration script if you have one)
 
+```bash
+sudo ./toconfigure-wazuh.sh  # (Optional)
 
+## Manage Wazuh services:
+```bash
+sudo ./manage-services.sh {start|stop|status}
