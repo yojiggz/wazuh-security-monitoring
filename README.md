@@ -15,7 +15,7 @@ Located within the `/Wazuh_Installation_Scripts/` folder, the **‘wazuh-securit
 The provided scripts for the configuration and installation of Kibana, Elasticsearch, and Wazuh include step-by-step instructions in the `README.md` located in '/Wazuh_Installation_Scripts/' on making the scripts executable and how to run them. This ensures a smooth setup process.
 
 ### Download the Wazuh Agent Installer (Windows)
-You can download the latest Wazuh agent MSI installer from the [official Wazuh website](https://documentation.wazuh.com/current/deploying-with-wazuh/agents/agent-installation/windows/index.html).
+You can download the latest Wazuh agent MSI installer from the [official Wazuh website](https://wazuh.com/).
 
 ## Configuration Details
 The `toconfigure-wazuh.sh` script sets up the configuration files tailored to integrate Kibana, Elasticsearch, and Wazuh, providing a complete security monitoring solution. Configuration details are provided to help users understand the setup.
