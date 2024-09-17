@@ -25,7 +25,7 @@ Located within the `/Wazuh_Installation_Scripts/` folder, the **‘wazuh-securit
 - **Service Management Script (`manage-services.sh`)**: Allows the user to stop, start, and check the status of services from the Wazuh Manager.
 
 ## Installation Guide
-The provided scripts for the configuration and installation of Kibana, Elasticsearch, and Wazuh include step-by-step instructions in the `README.md` located in '/Wazuh_Installation_Scripts/' on making the scripts executable and how to run them. This ensures a smooth setup process.
+The provided scripts for the configuration and installation of Kibana, Elasticsearch, and Wazuh include step-by-step instructions in the `README.md` located in `/Wazuh_Installation_Scripts/` on making the scripts executable and how to run them. These scripts are tailored for Kali Linux, ensuring a smooth setup process.
 
 ### Download the Wazuh Agent Installer (Windows)
 You can download the latest Wazuh agent MSI installer from the [official Wazuh website](https://wazuh.com/).
