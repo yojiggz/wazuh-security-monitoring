@@ -1,4 +1,4 @@
-# Wazuh Security Monitoring Setup Scripts
+# Wazuh Security Monitoring Setup Scripts - Linux
 
 This folder contains setup scripts for installing and configuring Wazuh, Elasticsearch, and Kibana. Follow the steps below to make the provided scripts executable and to execute them.
 
