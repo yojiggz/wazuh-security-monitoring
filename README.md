@@ -3,20 +3,20 @@
 ## Project Overview
 The project **‘wazuh-security-monitoring’** provides a comprehensive guide to setting up Wazuh, an open-source security information and event management (SIEM) solution, on a Kali Linux system. Wazuh enables effective log analysis, visualization, and security monitoring of security events, helping organizations maintain a robust security posture.
 
-# Key Features
+### Key Features
 - Log Analysis: Centralized collection and analysis of security-related logs from various sources.
 - Visualization: Interactive dashboards for visualizing security events and trends.
 - Alerting: Real-time notifications for critical security events.
 - Threat Detection: Detection of potential security threats and anomalies.
 - Compliance: Assistance with compliance requirements by providing audit trails and evidence.
 
-# Tarther Audience
+### Tarther Audience
 - Security professionals
 - IT Professionals
 - Cybersecurity enthusiasts
 - System administrators
 
-# Benefits
+### Benefits
 - Centralized management of security events
 - Compliance with industry standards
 - Improved threat detection and response
