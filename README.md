@@ -65,7 +65,7 @@ The project will be further enhanced by incorporating a dedicated section for tr
 The project is intended strictly for personal and educational use only. Configurations and scripts are provided based on the Wazuh Documentation and other publicly accessible resources. Users are responsible for ensuring compliance with all applicable laws and regulations when using the scripts. The author is not liable for any misuse of this project or any damages that may arise from its use.
 
 ## Reference Links
-For more detailed information, please refer to the official documentation used in this project:
+For more detailed information, please refer to the official documentations used in this project:
 - [Wazuh Documentation](https://documentation.wazuh.com/)
 - [Elasticsearch Documentation](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 - [Kibana Documentation](https://www.elastic.co/guide/en/kibana/current/index.html)
